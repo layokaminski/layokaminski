@@ -32,7 +32,6 @@ sou estudante de **Desenvolvedor Full-Stack Júnior**  na **Trybe**, formado em 
 <p>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
 </p>
 
 <p>
