@@ -15,10 +15,10 @@ sou estudante de **Desenvolvedor Full-Stack Júnior**  na **Trybe**, formado em 
 #### Para contato: ###
 
   <a href="https://www.instagram.com/layokaminski/" target="blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="40px" height="40px">
+  <img src="https://raw.githubusercontent.com/shgysk8zer0/logos/f54e831e2fb50f76997f6913f3334bbd59c563dc/instagram.svg" width="40px" height="40px">
 </a> 
 <a href="https://www.linkedin.com/in/layo-kaminski/" target="blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="40px" height="40px">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40px" height="40px">
 </a>
 <br>
 <p>
