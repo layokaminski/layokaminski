@@ -1,25 +1,27 @@
-### Olá, sou o Layo Kaminski ###
-sou estudante de **Desenvolvedor Full-Stack Júnior**  na **Trybe**, formado em Engenharia Civil. Do porque estou em transição de carreira, o motivo é simples, sou um curioso e gosto de sempre desenvolver e estar preparado para novas tecnologias que o mundo nos oferece. 
-
-<br>
-<br>
-
-**Esse são alguns dos meu interesses tanto em relação a tecnologia, quanto interesses pessoais:**
-
-- :student:  Estudando **Fundamentos da Web** para entender melhor o desenvolvimento de software
-- :soccer:  Tentativas de jogar futebol
-- :video_game:  Jogador de tibia, no momento de férias, mas sempre acompanhando e altas tentativas de jogar CS GO
-<br>
-<br>
-
-#### Para contato: ###
-
-  <a href="https://www.instagram.com/layokaminski/" target="blank">
-  <img src="https://raw.githubusercontent.com/shgysk8zer0/logos/f54e831e2fb50f76997f6913f3334bbd59c563dc/instagram.svg" width="40px" height="40px">
+<a href="https://github.com/layokaminski" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
-<a href="https://www.linkedin.com/in/layo-kaminski/" target="blank">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40px" height="40px">
+<a href="https://www.instagram.com/layokaminski/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a> 
+<a href="https://www.linkedin.com/in/layokaminski/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
+
+<br />
+<br />
+
+Olá, sou **Layo Kaminski**, sou de São Paulo, Brasil, estou estudando na **Trybe** para me tornar um **Desenvolvedor Full-Stack Júnior** 💻, e poder impactar o máximo de pessoas possíveis! 🚀. 
+
+**Meus interesses pessoais:**
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+
+- 👨🏽‍💻 Estou estudando Front-End com **React**;
+- 🌱 Estou aprendendo como melhorar a soft-skills referente a escuta ativa; 
+- 🤔 Meus hobbies são jogos online e atividades fisicas;
+- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
+- 📫 Por favor, envie um email para layokaminski@gmail.com para me encontrar.
 
 **Linguagens e ferramentas:**  
 
@@ -27,6 +29,8 @@ sou estudante de **Desenvolvedor Full-Stack Júnior**  na **Trybe**, formado em 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </p>
 
 <p>
@@ -35,12 +39,12 @@ sou estudante de **Desenvolvedor Full-Stack Júnior**  na **Trybe**, formado em 
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layokaminski&layout=compact&theme=dark&title_color=268bd2" alt="layo-kaminski" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layokaminski&layout=compact&theme=graywhite&title_color=268bd2" alt="layokaminski" />
 </p>
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=layokaminski&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="layo-kaminski" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=layokaminski&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="johnatas-henrique" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=layokaminski" alt="layo-kaminski" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=layokaminski" alt="layokaminski" /> </p>
 
 ⭐️ Baseado em [Johnatas Henrique](https://github.com/johnatas-henrique)
