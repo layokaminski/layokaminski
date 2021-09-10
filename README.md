@@ -17,7 +17,7 @@ Olá, meu nome é **Layo Kaminski**, sou de São Paulo, Brasil, estou estudando 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando Back-End com **Arquitetura: SOLID e ORM**;
+- 👨🏽‍💻 Estou estudando Computer Science com **Python 🐍**;
 - 🌱 Estou aprendendo como melhorar a soft-skills referente a criação; 
 - 🤔 Meus hobbies são jogos online e atividades fisicas;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
