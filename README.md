@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Olá, meu nome é **Layo Kaminski**, sou de São Paulo, Brasil, estou estudando na **Trybe** para me tornar um **Desenvolvedor Full-Stack Júnior** 💻, e poder impactar o máximo de pessoas possíveis! 🚀. 
+Olá, meu nome é **Layo Kaminski**, sou de São Paulo, Brasil, formado pela **Trybe** como **Desenvolvedor Full-Stack Júnior** 💻, trabalhando na **Méliuz** para poder impactar o máximo de pessoas possíveis, com tecnologia e inovação! 🚀. 
 
 **Meus interesses pessoais:**
 
