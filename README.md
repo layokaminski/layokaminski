@@ -11,13 +11,13 @@
 <br />
 <br />
 
-Olá, meu nome é **Layo Kaminski**, sou de São Paulo, Brasil, formado pela **Trybe** como **Desenvolvedor Full-Stack Júnior** 💻, trabalhando na **Méliuz** para poder impactar o máximo de pessoas possíveis, com tecnologia e inovação! 🚀. 
+Olá, meu nome é **Layo Kaminski**, sou de São Paulo, Brasil, trabalhando no **Méliuz** como **Desenvolvedor Full-Stack** 💻 para poder impactar o máximo de pessoas possíveis, com tecnologia e inovação! 🚀. 
 
 **Meus interesses pessoais:**
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando Computer Science com **Python 🐍**;
+- 👨🏽‍💻 Estou estudando arquitetura de microsserviços;
 - 🌱 Estou aprendendo como melhorar a soft-skills referente a *autoliderança*, o proposito de aprimorar essa soft skill é para ter um controle maior sobre minha carreira; 
 - 🤔 Meus hobbies são jogos online e atividades fisicas;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
