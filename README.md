@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Olá, meu nome é **Layo Kaminski**, sou de São Paulo, Brasil, trabalhando no **Méliuz** como **Desenvolvedor Full-Stack** 💻 para poder impactar o máximo de pessoas possíveis, com tecnologia e inovação! 🚀. 
+Olá, meu nome é **Layo Kaminski**, sou de São Paulo, Brasil, sou um **Desenvolvedor Full-Stack** 💻 para poder impactar o máximo de pessoas possíveis, com tecnologia e inovação! 🚀. 
 
 **Meus interesses pessoais:**
 
